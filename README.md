@@ -29,10 +29,15 @@ The system enforces file type restrictions, secure downloads, and email verifica
 ## 📁 Folder Structure
 
 secure-file/
-main.py  FastAPI app entry
-test_logic.ipynb # (Optional) logic test notebook
+
+ ├──main.py# FastAPI app entry
+ 
+├── test_logic.ipynb # (Optional) logic test notebook
+
 ├── uploads/ # Uploaded files directory
+
 └── README.md
+
 ---
 
 ## ⚙️ Tech Stack
